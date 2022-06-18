@@ -9,4 +9,4 @@ Useful resources  for developers
 
 |Website|Description  |
 |--|--|
-|canvas-confetti  |https://github.com/catdad/canvas-confetti  |
+|[canvas-confetti](https://github.com/catdad/canvas-confetti)  |Confetti gun for web|
